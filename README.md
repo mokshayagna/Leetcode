@@ -8,9 +8,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/mokshayagna/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/mokshayagna/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/mokshayagna/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/mokshayagna/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Array
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/mokshayagna/Leetcode/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
