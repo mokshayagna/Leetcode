@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/mokshayagna/Leetcode/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mokshayagna/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mokshayagna/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/mokshayagna/Leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/mokshayagna/Leetcode/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/mokshayagna/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mokshayagna/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/mokshayagna/Leetcode/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
