@@ -8,14 +8,9 @@ class Solution:
     def hasCycle(self, head: Optional[ListNode]) -> bool:
         h = {}
         temp = head
-        if head is None:
-            return False
-        if head.next is None:
-            return False
         while temp is not None:
-            if temp.next not in h:
-                h[temp.next] = 1
-                temp = temp.next
-            else:
+            if temp.next in h:
                 return True
+            h[temp] = 1
+            temp = temp.next
         return False
