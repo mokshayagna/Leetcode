@@ -12,17 +12,11 @@ class Solution:
         curr = head
 
         while curr:
-            # Check if current value is duplicated
             if curr.next and curr.val == curr.next.val:
-                # Skip all nodes with the same value
                 while curr.next and curr.val == curr.next.val:
                     curr = curr.next
-
-                # Remove all duplicates
                 prev.next = curr.next
             else:
                 prev = prev.next
-
             curr = curr.next
-
         return dummy.next
