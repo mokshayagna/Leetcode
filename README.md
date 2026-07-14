@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mokshayagna/Leetcode/tree/master/0001-two-sum) |
+| [0485-max-consecutive-ones](https://github.com/mokshayagna/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/mokshayagna/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mokshayagna/Leetcode/tree/master/0735-asteroid-collision) |
 | [1732-find-the-highest-altitude](https://github.com/mokshayagna/Leetcode/tree/master/1732-find-the-highest-altitude) |
