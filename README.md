@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mokshayagna/Leetcode/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/mokshayagna/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/mokshayagna/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mokshayagna/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/mokshayagna/Leetcode/tree/master/0735-asteroid-collision) |
 | [1732-find-the-highest-altitude](https://github.com/mokshayagna/Leetcode/tree/master/1732-find-the-highest-altitude) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mokshayagna/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mokshayagna/Leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/mokshayagna/Leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Math
@@ -70,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mokshayagna/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/mokshayagna/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mokshayagna/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/mokshayagna/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
