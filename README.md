@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mokshayagna/Leetcode/tree/master/0001-two-sum) |
+| [0134-gas-station](https://github.com/mokshayagna/Leetcode/tree/master/0134-gas-station) |
 | [0303-range-sum-query-immutable](https://github.com/mokshayagna/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/mokshayagna/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/mokshayagna/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/mokshayagna/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/mokshayagna/Leetcode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
