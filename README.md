@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/mokshayagna/Leetcode/tree/master/0007-reverse-integer) |
 | [0445-add-two-numbers-ii](https://github.com/mokshayagna/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mokshayagna/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/mokshayagna/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
