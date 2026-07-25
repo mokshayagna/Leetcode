@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mokshayagna/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0125-valid-palindrome](https://github.com/mokshayagna/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mokshayagna/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/mokshayagna/Leetcode/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/mokshayagna/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mokshayagna/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/mokshayagna/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/mokshayagna/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mokshayagna/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/mokshayagna/Leetcode/tree/master/0234-palindrome-linked-list) |
