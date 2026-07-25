@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/mokshayagna/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0058-length-of-last-word](https://github.com/mokshayagna/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mokshayagna/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/mokshayagna/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mokshayagna/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/mokshayagna/Leetcode/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mokshayagna/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mokshayagna/Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/mokshayagna/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mokshayagna/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0242-valid-anagram](https://github.com/mokshayagna/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mokshayagna/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/mokshayagna/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Design
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mokshayagna/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/mokshayagna/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/mokshayagna/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
