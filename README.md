@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/mokshayagna/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0058-length-of-last-word](https://github.com/mokshayagna/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/mokshayagna/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mokshayagna/Leetcode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/mokshayagna/Leetcode/tree/master/0394-decode-string) |
