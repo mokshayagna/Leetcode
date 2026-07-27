@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/mokshayagna/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/mokshayagna/Leetcode/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mokshayagna/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1768-merge-strings-alternately](https://github.com/mokshayagna/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/mokshayagna/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/mokshayagna/Leetcode/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mokshayagna/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/mokshayagna/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/mokshayagna/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Recursion
 |  |
 | ------- |
